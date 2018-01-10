@@ -9,7 +9,18 @@
     background-attachment: fixed;
     opacity: 0.6;
 }
-
+.header{
+    font-family: Pavanam-Regular;
+}
 .header h1{
-    font-size: 100px;
+    font-size: 70px;
+    font-family: ShadowsIntoLightTwo-Regular;
+    text-shadow: 3px 3px 3px #000;
+    
+}
+
+.header h3{
+    font-family: Sacramento-Regular, cursive;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px #000;
 }

@@ -1,0 +1,17 @@
+@font-face{
+  font-family: Sacramento-Regular;
+  src: url("../font/Sacramento-Regular.ttf");  
+}
+
+@font-face {
+    font-family: RockSalt-Regular;
+    src: url("../font/RockSalt-Regular.ttf");
+}
+@font-face {
+    font-family: ShadowsIntoLightTwo-Regular;
+    src: url("../font/ShadowsIntoLightTwo-Regular.ttf");
+}
+@font-face {
+    font-family: Pavanam-Regular;
+    src: url("../font/Pavanam-Regular.ttf");
+}
