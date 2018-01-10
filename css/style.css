@@ -21,6 +21,15 @@
 
 .header h3{
     font-family: Sacramento-Regular, cursive;
-    font-size: 30px;
+    font-size: 35px;
     text-shadow: 2px 2px 2px #000;
+    letter-spacing: 2px;
+}
+
+.header span{
+    letter-spacing: 1.5px;
+}
+
+.header button{
+    box-shadow: 3px 3px 3px rgb(54, 51, 51);
 }
