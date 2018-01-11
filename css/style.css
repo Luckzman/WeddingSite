@@ -10,17 +10,17 @@
     opacity: 0.6;
 }
 .header{
-    font-family: Pavanam-Regular;
+    font-family: Pavanam;
 }
 .header h1{
     font-size: 70px;
-    font-family: ShadowsIntoLightTwo-Regular;
+    font-family: ShadowsIntoLightTwo;
     text-shadow: 3px 3px 3px #000;
     
 }
 
 .header h3{
-    font-family: Sacramento-Regular, cursive;
+    font-family: Sacramento, cursive;
     font-size: 35px;
     text-shadow: 2px 2px 2px #000;
     letter-spacing: 2px;
@@ -32,4 +32,24 @@
 
 .header button{
     box-shadow: 3px 3px 3px rgb(54, 51, 51);
+}
+
+#story {
+    background-color: rgb(239, 248, 252);
+}
+.story-main img{
+    width: 350px;
+    height: 250px;
+}
+.story-main h1{
+    font-family: Tangerine;
+}
+.story-main h3{
+    font-family: RockSalt;
+    font-size: 1em;
+}
+.story-main p{
+    line-height: 2em;
+    font-family: Pavanam;
+    font-size: 1.15em;
 }
