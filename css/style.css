@@ -1,0 +1,75 @@
+.active{
+    border-bottom: rgb(104, 180, 136) solid 2px;
+    font-weight: 400;
+
+}
+
+.header{
+    
+    background-image: url("../img/lovers-wallpapers.jpg");
+    height: 650px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.6;
+}
+.header{
+    font-family: Pavanam;
+}
+.header h1{
+    font-size: 70px;
+    font-family: ShadowsIntoLightTwo;
+    text-shadow: 3px 3px 3px #000;
+    
+}
+
+.header h3{
+    font-family: Sacramento, cursive;
+    font-size: 35px;
+    text-shadow: 2px 2px 2px #000;
+    letter-spacing: 2px;
+}
+
+.header span{
+    letter-spacing: 1.5px;
+}
+
+.header button{
+    box-shadow: 3px 3px 3px rgb(54, 51, 51);
+}
+
+#story {
+    background-color: rgb(204, 213, 252);  
+    
+}
+
+#img-flower{
+    width: 50px;
+    height: 25px;
+}
+.story-main img{
+    width: 350px;
+    height: 250px;
+}
+.story-main h1{
+    font-family: Tangerine;
+    text-shadow: 1px 1px 2px #000;
+    font-size:4rem;
+}
+.story-main h3{
+    font-family: RockSalt;
+    font-size: 1em;
+    text-shadow: 1px 1px 2px #000
+}
+.story-main p{
+    line-height: 2em;
+    font-family: Pavanam;
+    font-size: 1.15em;
+}
+
+.story-gallery img{
+    width: 305px;
+    height: 220px;
+}

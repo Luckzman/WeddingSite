@@ -1,0 +1,29 @@
+@font-face{
+  font-family: Sacramento;
+  src: url("../font/Sacramento-Regular.ttf");  
+}
+
+@font-face {
+    font-family: RockSalt;
+    src: url("../font/RockSalt-Regular.ttf");
+}
+@font-face {
+    font-family: ShadowsIntoLightTwo;
+    src: url("../font/ShadowsIntoLightTwo-Regular.ttf");
+}
+@font-face {
+    font-family: Pavanam;
+    src: url("../font/Pavanam-Regular.ttf");
+}
+@font-face {
+    font-family: DancingScript;
+    src: url("../font/DancingScript-Regular.ttf");
+}
+@font-face {
+    font-family: Tangerine;
+    src: url("../font/Tangerine-Regular.ttf");
+}
+@font-face {
+    font-family: Parisienne;
+    src: url("../font/Parisienne-Regular.ttf");
+}
