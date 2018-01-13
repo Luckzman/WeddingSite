@@ -1,3 +1,9 @@
+.active{
+    border-bottom: rgb(104, 180, 136) solid 2px;
+    font-weight: 400;
+
+}
+
 .header{
     
     background-image: url("../img/lovers-wallpapers.jpg");
